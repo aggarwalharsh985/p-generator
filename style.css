@@ -139,6 +139,7 @@ h1{
     color: var(--vb-yellow);
     font-weight: 600;
     font-size: 1.25rem;
+    cursor: pointer;
 }
 .check{
     display: flex;
@@ -217,6 +218,9 @@ h1{
     background-color: transparent;
     border: none;
     outline: none;
+}
+.c-button{
+    cursor: pointer;
 }
 .tooltip {
     position: absolute;
